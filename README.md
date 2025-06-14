@@ -5,7 +5,7 @@
 ### Installation Instructions
 
 1. **Download and install** the Windows build from the [Releases](https://github.com/imrsaleh/option_key_for_streamlink7.4/releases) section.
-2. **Download** the `pkgs` folder.
+2. **Download** the `pkgs` folder from main branches.
 3. Navigate to:
    `C:\Program Files\Streamlink`
 4. **Replace** the existing `pkgs` folder with the one you downloaded.
